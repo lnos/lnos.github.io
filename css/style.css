@@ -1,9 +1,11 @@
-body{
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-    background: white;
+body {
+	font-size: 1em;
+	font-family: 'proxima-nova-alt', 'Helvetica Neue', Arial, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0;
+	background-color: #eee;
+	width: auto;
+	height: auto;
     text-align: center;
-}
-
-textarea{
-    font-size: 18px;
 }
