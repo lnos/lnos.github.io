@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Bear Fish",
+        "subtitle": "Infinite Runner Game with Retro Graphics",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    },
+    {
+        "title": "Impact Centre",
+        "subtitle": "Software Engineering Internship at a startup",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    },
+    {
+        "title": "Hatch Canada",
+        "subtitle": "Providing introductory computer science education to kids",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    },
+    {
+        "title": "Colour Game",
+        "subtitle": "Simple game to test your ability to distinguish colours",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    },
+    {
+        "title": "Azubu Technical Support",
+        "subtitle": "Helping professional gamers to stream",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    },
+    {
+        "title": "Uber Driver",
+        "subtitle": "Sorry if I tricked you",
+        "thumbnail" : "bearfish.png",
+        "url" : "https://bit.ly/bearfishgame"
+    }
+]

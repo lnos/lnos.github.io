@@ -1,0 +1,14 @@
+.border{
+    border-bottom: 1.5px solid #f4f3f3;
+}
+
+.bio-title{
+    display: inline-block;
+    padding: 0;
+    margin-left: 200px;
+    height: 10px;
+}
+
+.bio-contents{
+    margin: 20px 200px 0 200px;
+}
