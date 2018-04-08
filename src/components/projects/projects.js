@@ -20,7 +20,6 @@ class Projects extends Component {
               <Project/>
               <Project/>
               <Project/>
-              <Project/>
             </div>
           </div>
         );
