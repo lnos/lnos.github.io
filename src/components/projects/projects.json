@@ -8,30 +8,12 @@
     {
         "title": "Impact Centre",
         "subtitle": "Software Engineering Internship at a startup",
-        "thumbnail" : "bearfish.png",
-        "url" : "https://bit.ly/bearfishgame"
+        "thumbnail" : "impactcentre.png",
+        "url" : "/favicon.ico"
     },
     {
-        "title": "Hatch Canada",
-        "subtitle": "Introductory computer science education to kids",
-        "thumbnail" : "bearfish.png",
-        "url" : "https://bit.ly/bearfishgame"
-    },
-    {
-        "title": "Colour Game",
+        "title": "Color Game",
         "subtitle": "Test your ability to distinguish colours",
-        "thumbnail" : "bearfish.png",
-        "url" : "https://bit.ly/bearfishgame"
-    },
-    {
-        "title": "Azubu Technical Support",
-        "subtitle": "Helping professional gamers to stream",
-        "thumbnail" : "bearfish.png",
-        "url" : "https://bit.ly/bearfishgame"
-    },
-    {
-        "title": "Uber Driver",
-        "subtitle": "Sorry if I tricked you",
         "thumbnail" : "bearfish.png",
         "url" : "https://bit.ly/bearfishgame"
     }

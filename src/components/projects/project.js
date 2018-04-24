@@ -7,11 +7,11 @@ class Project extends Component {
           <div className="container">
             <div className="project">
               <a href={this.props.link}>
-              <img className="thumbnail" src={process.env.PUBLIC_URL + '/images/' + this.props.thumbnail} alt={this.props.title}/>            
-              <div className="title">
-                <h2 className="mainTitle">{this.props.title}</h2>
-                <p className="subTitle">{this.props.subtitle}</p>
-              </div>
+                <img className="thumbnail" src={process.env.PUBLIC_URL + '/images/' + this.props.thumbnail} alt={this.props.title}/>            
+                <div className="title">
+                  <h2 className="mainTitle">{this.props.title}</h2>
+                  <p className="subTitle">{this.props.subtitle}</p>
+                </div>
               </a>
             </div>
           </div>

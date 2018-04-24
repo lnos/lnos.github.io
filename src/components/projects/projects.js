@@ -14,7 +14,7 @@ class Projects extends Component {
           title ={ProjectData[i].title}
           subtitle={ProjectData[i].subtitle}
           thumbnail={ProjectData[i].thumbnail}
-          link = {ProjectData[i].link}
+          link = {ProjectData[i].url}
         />
         );
       }
