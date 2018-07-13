@@ -7,7 +7,7 @@ class About extends Component {
           <div className="bio">
             <h3 className="bio-title">Bio</h3>
             <div className="border"></div>
-            <p className="bio-contents">Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds. They live almost exclusively in the Southern Hemisphere, with only one species, the Galapagos penguin, found north of the equator. Highly adapted for life in the water, penguins have countershaded dark and white plumage, and their wings have evolved into flippers. Most penguins feed on krill, fish, squid and other forms of sea life caught while swimming underwater. They spend about half of their lives on land and half in the oceans.</p>
+            <p className="bio-contents">Hi I am Seong! I love penguins and solving problems.</p>
           </div>
         );
       }

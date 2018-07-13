@@ -6,15 +6,15 @@
         "url" : "https://bit.ly/bearfishgame"
     },
     {
-        "title": "Impact Centre",
-        "subtitle": "Software Engineering Internship at a startup",
-        "thumbnail" : "impactcentre.png",
-        "url" : "/favicon.ico"
+        "title": "Starbucks Caffeine Visualization",
+        "subtitle": "Test your ability to distinguish colours",
+        "thumbnail" : "starbucks.png",
+        "url" : "https://github.com/lnos/sbuxchart"
     },
     {
-        "title": "Color Game",
-        "subtitle": "Test your ability to distinguish colours",
-        "thumbnail" : "bearfish.png",
-        "url" : "https://bit.ly/bearfishgame"
+        "title": "Penguin Studio",
+        "subtitle": "Coming soon...",
+        "thumbnail" : "iconBlue.png",
+        "url" : "https://lnos.github.io"
     }
 ]
