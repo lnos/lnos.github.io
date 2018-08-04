@@ -23,7 +23,6 @@ class Projects extends Component {
 
     render() {
         var projectData = this.getProjects()
-        console.log(projectData);
         return (
           <div className="projects">
             <h3 className="projects-title">Works</h3>
