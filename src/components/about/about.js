@@ -7,7 +7,8 @@ class About extends Component {
           <div className="bio">
             <h3 className="bio-title">Bio</h3>
             <div className="border"></div>
-            <p className="bio-contents">Hi I am Seong! I love penguins and solving problems.</p>
+            <p className="bio-contents">This is old version of my website.</p>
+            <p className="bio-contents">Please go to <a href="https://seongkim.netlify.com/">Lnos.ca</a> for up-to date website</p>
           </div>
         );
       }
